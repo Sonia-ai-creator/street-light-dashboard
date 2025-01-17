@@ -1,0 +1,28 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .filters {
+    margin: 20px 0;
+  }
+  
+  .filters select {
+    margin: 0 10px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .summary {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .charts {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
