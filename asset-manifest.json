@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/street-light-dashboard/static/css/main.f6039dea.css",
+    "main.js": "/street-light-dashboard/static/js/main.273bda87.js",
+    "static/js/156.6ad819ff.chunk.js": "/street-light-dashboard/static/js/156.6ad819ff.chunk.js",
+    "index.html": "/street-light-dashboard/index.html",
+    "main.f6039dea.css.map": "/street-light-dashboard/static/css/main.f6039dea.css.map",
+    "main.273bda87.js.map": "/street-light-dashboard/static/js/main.273bda87.js.map",
+    "156.6ad819ff.chunk.js.map": "/street-light-dashboard/static/js/156.6ad819ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6039dea.css",
+    "static/js/main.273bda87.js"
+  ]
+}
